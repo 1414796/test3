@@ -1,0 +1,1 @@
+real,boolean,integer,string,not,and,or,div,mod,<EOF>
